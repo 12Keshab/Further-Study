@@ -37,7 +37,7 @@ Further Study solves this by:
 - MySQL
 
 ## Project Structure
-further-study/
+further-study
 │── index.html  
 │── universities.php  
 │── add_university.html  
